@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Connor Lopshire
+I am blaah blahh
+## stuffffff
+1. stuff
+1. stuff
+1. stuff
+* unordered atuff
+* unordered stuuff
+
+|stuff|stufff|stuff|
+|--|--|--|
