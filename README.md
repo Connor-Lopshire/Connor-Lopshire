@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Connor Lopshire
-I am currently working in Django and React
+I am currently working proffesionally in React/Typescript. Perosnally I am learning Ruby on Rails. 
 
