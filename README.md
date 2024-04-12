@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Connor Lopshire
-I am currently working proffesionally in React/Typescript on nashvillesites.org . Perosnally I am learning Ruby on Rails. 
+I am currently working proffesionally in React/Typescript on [nashvillesites.org] . Perosnally I am learning Ruby on Rails. 
 
